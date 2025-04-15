@@ -1,2 +1,3 @@
 # wordpress4dummy
 使用wordpress傻瓜建站，玩一下k8s
+里面有ai生成的文档，以及一些视频攻略
